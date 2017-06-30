@@ -1,2 +1,4 @@
 Hi I'm the first file!
 
+New changes
+
